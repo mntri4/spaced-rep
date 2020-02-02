@@ -4,7 +4,7 @@ np
 The currently available language option in this app is morse corde.
 
 ## Links
-* Live Application: 
+* Live Application: https://spaced-rep-osxir07o4.now.sh
 * API Endpoint: 
 * Client repo: https://github.com/mntri4/spaced-rep
 * Server repo: https://github.com/mntri4/spaced-rep-api
