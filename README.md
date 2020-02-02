@@ -4,10 +4,10 @@ np
 The currently available language option in this app is morse corde.
 
 ## Links
-* Live Application: https://spaced-morse.now.sh/
-* API Endpoint: https://intense-taiga-93516.herokuapp.com/api/
-* Client repo: https://github.com/thinkful-ei-gecko/shawn-marlon-spaced-rep
-* Server repo: https://github.com/thinkful-ei-gecko/shawn-marlon-spaced-rep-api
+* Live Application: 
+* API Endpoint: 
+* Client repo: https://github.com/mntri4/spaced-rep
+* Server repo: https://github.com/mntri4/spaced-rep-api
 
 ## Team members:
 Mario Martinez
