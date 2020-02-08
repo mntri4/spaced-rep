@@ -5,7 +5,7 @@ The currently available language option in this app is morse corde.
 
 ## Links
 * Live Application: https://spaced-rep-osxir07o4.now.sh
-* API Endpoint: 
+* API Endpoint: https://vast-meadow-24481.herokuapp.com/api/
 * Client repo: https://github.com/mntri4/spaced-rep
 * Server repo: https://github.com/mntri4/spaced-rep-api
 
