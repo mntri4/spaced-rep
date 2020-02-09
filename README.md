@@ -66,8 +66,15 @@ This project was created with `create-react-app`.  Run npm start to run in devel
 
 ## Screenshots
 Login Screen/Landing Page:
-![Landing/Login Page](spaced-rep/screenshots/Dashboard Spaced Repetition.pdf)
 
-![Returned Progress Pagee](spaced-rep/screenshots/Dashboard Spaced Repetition.pdf)
-![Learn Spaced Repetition](spaced-rep/screenshots/kearn spaced repetition.pdf)
-![Error Incorrect](spaced-rep/screenshots/error - incorrect.pdf)
+![Login screen](screenshots/one.pdf)
+
+Progress Screen
+
+![Return Repetition](screenshots/two.pdf)
+
+Learn Characters
+[Learn screen](screenshots/three.pdf)
+
+Error Screen
+[Incorrect screen](screenshots/four.pdf)
