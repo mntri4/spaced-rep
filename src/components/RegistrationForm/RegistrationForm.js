@@ -80,6 +80,11 @@ class RegistrationForm extends Component {
             required
           />
         </div>
+        <div class="demo">
+          <p>To view demo use:</p>
+            <p>Email:demotest@test.com</p>
+            <p>Passwod: Password1</p>
+        </div>
         <footer>
           <Button type='submit'>
             Sign up
