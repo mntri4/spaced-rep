@@ -67,14 +67,14 @@ This project was created with `create-react-app`.  Run npm start to run in devel
 ## Screenshots
 Login Screen/Landing Page:
 
-![Login screen](screenshots/one.pdf)
+![login screen](screenshots/one.pdf)
 
 Progress Screen
 
-![Return Repetition](screenshots/two.pdf)
+![login screen](screenshots/two.pdf)
 
 Learn Characters
-[Learn screen](screenshots/three.pdf)
+[login screen](screenshots/three.pdf)
 
 Error Screen
-[Incorrect screen](screenshots/four.pdf)
+[login screen](screenshots/four.pdf)
