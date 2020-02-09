@@ -75,7 +75,7 @@ Progress Screen:
 
 Learn Characters:
 
-![login screen](screenshots/third.PNG)
+![login screen](screenshots/three.PNG)
 
 Error Screen:
 
