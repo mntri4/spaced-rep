@@ -3,5 +3,8 @@
         "env": {
             "SKIP_PREFLIGHT_CHECK": "true"
         }
+    },
+    "env": {
+        "SKIP_PREFLIGHT_CHECK": "true"
     }
 }
