@@ -15,12 +15,12 @@ body {
   font-style: normal;
 }
 
-:root {
-  --font-size: calc(10px + 1vmin);
+.root {
+  font-size: .62em;
 }
 
 .demo {
-  font-size: calc(10px + 1vmin;
+  font-size: .62em;
   color: #ffffff;
   
 }
