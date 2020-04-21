@@ -1,4 +1,4 @@
-import React, { Component } from 'react'
+git import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import { Input, Required, Label } from '../Form/Form'
 import AuthApiService from '../../services/auth-api-service'
@@ -82,8 +82,8 @@ class RegistrationForm extends Component {
         </div>
         <div class="demo">
           <p>To view demo use:</p>
-            <p>Email:demotest@test.com</p>
-            <p>Passwod: Password1</p>
+            <p>Email:User</p>
+            <p>Passwod: Password123!</p>
         </div>
         <footer>
           // Thiis the demo credentials
