@@ -1,4 +1,4 @@
-git import React, { Component } from 'react'
+import React, { Component } from 'react'
 import { Link } from 'react-router-dom'
 import { Input, Required, Label } from '../Form/Form'
 import AuthApiService from '../../services/auth-api-service'
