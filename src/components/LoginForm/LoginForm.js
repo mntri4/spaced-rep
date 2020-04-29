@@ -74,6 +74,11 @@ class LoginForm extends Component {
             required
           />
         </div>
+        <div class="demo">
+          <p>To view demo use:</p>
+            <p>Email:User</p>
+            <p>Passwod: Password123!</p>
+        </div>
         <Button type='submit'>
           Login
         </Button>

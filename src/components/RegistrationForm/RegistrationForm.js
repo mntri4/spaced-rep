@@ -86,7 +86,7 @@ class RegistrationForm extends Component {
             <p>Passwod: Password123!</p>
         </div>
         <footer>
-          // Thiis the demo credentials
+          {/* These the demo credentials*/}
           <Button type='submit'>
             Sign up
           </Button>
@@ -94,7 +94,7 @@ class RegistrationForm extends Component {
             Spaced Repetition learning technique. The app tracks the users performance history for each word,
              revisiting words which have proven to be more challenging for the use with a higher frequency.
               The app utilizes user authorization, automatic log out on inactivity, data persistence, and score keeping.</p>
-              // explains the app
+             {/* explains the app*/}
           {' '}
           <Link to='/login'>Already have an account?</Link>
         </footer>
