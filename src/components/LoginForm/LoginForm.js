@@ -77,7 +77,7 @@ class LoginForm extends Component {
         <div class="demo">
           <p>To view demo use:</p>
             <p>Email:User</p>
-            <p>Passwod: Password123!</p>
+            <p>Password: Password123!</p>
         </div>
         <Button type='submit'>
           Login
